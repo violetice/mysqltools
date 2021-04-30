@@ -388,7 +388,7 @@
       zabbix_server_ip: 172.16.192.10
    
       ```
-      为了你能更加方便的使用mysqltools我提供了份linux上的标准配置文件**mysqltools/config.yaml-for-linux** 使用时只要把它重命名成**cofnig.yaml**就行了
+      为了你能更加方便的使用mysqltools我提供了份linux上的标准配置文件**mysqltools/config.yaml-for-linux** 使用时只要把它重命名成**config.yaml**就行了
    
       ---
 
